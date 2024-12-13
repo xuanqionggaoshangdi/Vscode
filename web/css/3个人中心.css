@@ -1,0 +1,168 @@
+.background{
+    position: relative;
+    width: 1920px;
+    height: 1080px;
+    background-image: url(../img/【哲风壁纸】星空-海.png);
+    background-size: 100% 70%;
+    background-repeat: no-repeat;
+    
+    }
+    
+    
+    button{
+    position: absolute;
+    width: 200px;
+    height: 50px;
+    background-color: chartreuse;
+    left: 400px;
+    }
+    .button1{
+    top: 150px;
+    background-color:rgb(26, 162, 196);
+    }
+    .button2{
+    background-color: rgb(26, 162, 196);
+        top: 230px;
+    }
+    .button3{
+        background-color:rgb(26, 162, 196);
+        top: 290px;
+        
+    }
+    .button4{
+    background-color: rgb(26, 162, 196);
+        top: 350px;
+    }
+    .button5{
+        background-color: rgb(26, 162, 196);
+            top: 410px;
+        }
+        .button6{
+            background-color: rgb(26, 162, 196);
+                top: 470px;
+            }
+    .tu{
+    
+    position: absolute;
+    width: 700px;
+    height: 500px;
+    background-color:rgb(26, 162, 196);
+    right: 600px;
+    
+    top: 150px;
+    
+    }
+    
+    
+    
+    
+    .one1{
+    position: absolute;
+    width: 300px;
+    height: 200px;
+    background-color: rgb(26, 162, 196);
+    left: 30px;
+    
+    background-image: url(../img/18.jpg);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    }
+    .one2{
+    background-image: url(../img/19.jpg);
+        position: absolute;
+    width: 300px;
+    height: 200px;
+    background-color: rgb(26, 162, 196);
+    
+    left: 350px;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+    }
+    .one3{
+        background-image: url(../img/20.jpg);
+        position: absolute;
+    width: 300px;
+    height: 200px;
+    background-color: rgb(26, 162, 196);
+    left: 30px;
+    top: 280px;
+    
+    
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+    
+    }
+    .one4{
+    background-image: url(../img/21.jpg);
+        position: absolute;
+    width: 300px;
+    height: 200px;
+    background-color: rgb(26, 162, 196);
+    
+    left: 350px;
+    top: 280px;
+    
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+    }
+    
+    
+    
+    .two{
+    
+    background-image: url(../个人页面制作/2052182.jpg);
+        position: absolute;
+       left: 30px;
+    width: 626px;
+    height: 370px;
+    background-color: rgb(26, 162, 196);
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+    
+    }
+    
+    input{
+        width: 277px;
+    position: absolute;
+    left: 200px;
+    
+    
+    }
+    textarea{ width: 277px;
+    position: absolute;
+    left: 200px;}
+    
+    
+    
+    
+    .four1{
+        height: 40px;
+    top: 60px;
+    }
+    
+    .four2{
+        height: 210px;
+    top: 120px;
+    }
+    .four3{
+        width: 277px;
+    position: absolute;
+    bottom: 100px;
+    left: 200px;
+    height: 43px;
+    background-color: #121b37;
+    color: white;
+    
+    }
+    
+    .front{
+    
+        z-index: 1;
+    }
+    
+    
+    
